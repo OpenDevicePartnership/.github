@@ -1,0 +1,5 @@
+{
+    "name": "no-std",
+    "description": "Workflow to check whether the library is able to run without the std library.",
+    "categories": [ "continuous-integration" ]
+}
