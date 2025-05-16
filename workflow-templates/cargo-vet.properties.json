@@ -1,0 +1,5 @@
+{
+    "name": "Cargo Vet",
+    "description": "Cargo vet workflow template. Runs cargo vet to check for unvetted dependencies. Also needs Cargo Vet PR Comment workflow to be enabled.",
+    "categories": [ "continuous-integration", "dependency-management" ]
+}

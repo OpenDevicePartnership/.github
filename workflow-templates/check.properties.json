@@ -1,0 +1,5 @@
+{
+    "name": "check",
+    "description": "Workflow to run several checks whenever a PR is opened or updated.",
+    "categories": [ "continuous-integration" ]
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Cargo Vet PR Comment",
+    "description": "Workflow to add comment to PR based on result of cargo vet workflow. Also needs Cargo Vet workflow to be enabled.",
+    "categories": [ "continuous-integration", "dependency-management" ]
+}

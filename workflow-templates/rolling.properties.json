@@ -1,0 +1,5 @@
+{
+    "name": "rolling",
+    "description": "Workflow to run cargo check on a rolling schedule to catch any breaks due to dependencies.",
+    "categories": [ "continuous-integration" ]
+}
